@@ -19,5 +19,9 @@ Frontend development • Game-based learning • Interactive experiences
 A progression-based interactive concept inspired by game classification systems.  
 *Tech:* Frontend logic, interaction design, game concepts
 
+**Fifi's Menja**
+A leisure based game made to relief stress.
+*Tech*: Frontend logic and interaction design
+
 ## 🌍 Location
 Nigeria • Open to internships, roles, and remote opportunities
