@@ -1,4 +1,4 @@
-# Hi, I’m Godsflavour 👋
+# Hi, I’m Godsflavour 🎀
 
 I’m a frontend-focused software developer interested in building interactive, learning-centered experiences, especially through games and playful digital products. I enjoy combining logic, design, and storytelling to create things people actually enjoy using.
 
