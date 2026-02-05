@@ -1,6 +1,6 @@
 # Hi, I’m Godsflavour 🎀
 
-Frontend-focused developer building interactive, learning-centered experiences — especially through games and playful digital products. I enjoy blending logic, design, and storytelling to create engaging user experiences.
+Frontend-focused developer building interactive, learning-centered experiences, especially through games and playful digital products. I enjoy blending logic, design, and storytelling to create engaging user experiences.
 
 ## 💻 Stack
 - **Languages:** HTML, CSS, JavaScript, C, C++, C#
