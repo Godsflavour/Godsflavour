@@ -3,7 +3,7 @@
 Frontend-focused developer building interactive, learning-centered experiences — especially through games and playful digital products. I enjoy blending logic, design, and storytelling to create engaging user experiences.
 
 ## 💻 Stack
-- **Languages:** HTML, CSS, JavaScript  
+- **Languages:** HTML, CSS, JavaScript, C, C++, C#
 - **Frameworks/Libraries:** React, Unity, Three.js, Typescript, Tailwind
 - **Tools:** VS Code, Git & GitHub, Blender, Spline  
 
